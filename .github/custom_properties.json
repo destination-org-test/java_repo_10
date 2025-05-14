@@ -1,0 +1,5 @@
+{
+  "buildType": "java-gradle",
+  "team": "devops",
+  "env": "production"
+}
